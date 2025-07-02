@@ -1,2 +1,1 @@
-# bokepumi
-bokepumi
+# [bokepumi](https://bokepumi.pages.dev)
